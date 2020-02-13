@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Assignment Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_deals">Deals</string>
+    <string name="text_tab_top">TOP</string>
+    <string name="text_tab_popular">POPULAR</string>
+    <string name="text_tab_feature">FEATURE</string>
+    <string name="text_navigation_drawer_open">Open navigation drawer</string>
+    <string name="text_navigation_drawer_close">Close navigation drawer</string>
+    <string name="text_resource_not_found">Resource not found.</string>
+    <string name="text_server_broken">Server is broken, please try later.</string>
+    <string name="text_unknown_error">Unknown server error, please try later.</string>
+    <string name="text_error_no_offline_data">No offline data is available, please turn on internet.</string>
+</resources>
